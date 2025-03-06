@@ -13,5 +13,5 @@ Motivated CCA student with a passion for coding, data management, and software d
 - High School: Gov. Rafael L. Lazatin Integrated School
 - Elementary: Sapalibutad Elementary School
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/Task1.md).
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/rxnz03/EDM-Portfolio/blob/81e736639972a7beb1380543ef3fa47ca5025fc9/Midterm%20Lab%20Task%201/README.md).
 - Midterm Lab Task 2: 
