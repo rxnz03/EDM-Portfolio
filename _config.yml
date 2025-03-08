@@ -1,7 +1,7 @@
-title: EDM Portfolio
-logo : images/Prof.jpg
+title: My Portfolio
+logo: images/pic.jpg
+description: City College Student
 show_downloads: true
-theme: jekyll-theme-minimal
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
-  - jekyll-theme-slate
+   -  jekyll-remote-theme
