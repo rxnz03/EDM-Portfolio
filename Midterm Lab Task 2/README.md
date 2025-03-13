@@ -33,13 +33,16 @@ To extract useful information from the file UncleanedDSJObs.csv taken from a Job
 
 
 ### Sal By Role Type Dup
-<img src="images/salbyroletypedup.png" alt="Alt Text" width="300" height="100">
+![02](https://github.com/user-attachments/assets/813828ae-153c-40df-85f2-1dc2a421e3c6)
+
 
 ### Sal By Role Size Ref
-<img src="images/salbyrolesizeref.png" alt="Alt Text" width="300" height="100">
+![03](https://github.com/user-attachments/assets/4f7f9370-c2ac-4db5-88f7-ca13b170e17f)
+
 
 ### Sal By State Ref
-<img src="images/salbystateref.png" alt="Alt Text" width="400" height="100">
+![05](https://github.com/user-attachments/assets/918d9573-db3e-44fa-a23a-21cb714f3b09)
+
 
 ### Query Dependencies
 <img src="images/query dependencies.png" alt="Alt Text" width="400" height="300">
