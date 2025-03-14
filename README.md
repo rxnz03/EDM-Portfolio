@@ -11,7 +11,7 @@
 Motivated CCA student with a passion for coding, data management, and software development. Eager to learn and apply new technologies, with a strong interest in problem-solving and creating efficient digital solutions.
 
 ## 🏫 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍
-- **College:** Bachelor of Science in Information System (CCA)
+- **College:** City College of Angeles (BSIS)
 - **High School:** Gov. Rafael L. Lazatin Integrated School
 - **Elementary:** Sapalibutad Elementary School
 
