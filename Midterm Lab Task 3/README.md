@@ -1,4 +1,4 @@
-# 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 𝟑
+# 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 𝟑. 𝐔𝐬𝐢𝐧𝐠 𝐏𝐢𝐯𝐨𝐭 𝐓𝐚𝐛𝐥𝐞 𝐚𝐧𝐝 𝐂𝐫𝐞𝐚𝐭𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
 This portfolio is about creating an interactive Data Science Salary & Job Trends Dashboard using Excel. It analyzes job distribution, salary trends by role and company size, and sector-wise employment patterns through pivot tables, charts, slicers, and an optional map for visualization.
 
 ## 𝐒𝐭𝐞𝐩 𝐛𝐲 𝐒𝐭𝐞𝐩 𝐏𝐫𝐨𝐜𝐞𝐬𝐬
