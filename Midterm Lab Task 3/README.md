@@ -48,6 +48,10 @@ This portfolio is about creating an interactive Data Science Salary & Job Trends
 ### 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
 ![Screenshot 2025-03-15 114231](https://github.com/user-attachments/assets/b97deda9-7efc-477c-9789-de8601e9b211)
 
+### Map
+![map](https://github.com/user-attachments/assets/318cfc79-380a-47e0-b480-cc370aac2346)
+
+
 
 
 
