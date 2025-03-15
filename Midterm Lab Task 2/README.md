@@ -44,4 +44,5 @@ To extract useful information from the file UncleanedDSJObs.csv taken from a Job
 
 
 ### 𝐐𝐮𝐞𝐫𝐲 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
-<img src="images/query dependencies.png" alt="Alt Text" width="400" height="300">
+![query dependencies](https://github.com/user-attachments/assets/044c4320-8233-4763-b535-f87e3fc80f3f)
+
