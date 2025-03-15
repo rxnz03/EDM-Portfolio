@@ -29,19 +29,16 @@ To extract useful information from the file UncleanedDSJObs.csv taken from a Job
 
 ## 𝐅𝐢𝐧𝐚𝐥 𝐎𝐮𝐭𝐩𝐮𝐭
 ### 𝐂𝐥𝐞𝐚𝐧𝐞𝐝 𝐃𝐚𝐭𝐚
-
+![cleaned](https://github.com/user-attachments/assets/90b08a6c-6752-49bf-b9a3-1bc94db1586a)
 
 ### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐓𝐲𝐩𝐞 𝐃𝐮𝐩
 ![02](https://github.com/user-attachments/assets/813828ae-153c-40df-85f2-1dc2a421e3c6)
 
-
 ### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐒𝐢𝐳𝐞 𝐑𝐞𝐟
 ![03](https://github.com/user-attachments/assets/4f7f9370-c2ac-4db5-88f7-ca13b170e17f)
 
-
 ### 𝐒𝐚𝐥 𝐁𝐲 𝐒𝐭𝐚𝐭𝐞 𝐑𝐞𝐟
 ![05](https://github.com/user-attachments/assets/918d9573-db3e-44fa-a23a-21cb714f3b09)
-
 
 ### 𝐐𝐮𝐞𝐫𝐲 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
 ![query dependencies](https://github.com/user-attachments/assets/044c4320-8233-4763-b535-f87e3fc80f3f)
