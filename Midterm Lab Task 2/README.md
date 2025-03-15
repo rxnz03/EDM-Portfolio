@@ -1,14 +1,14 @@
-# Midterm Lab Task 2: Data Cleaning and Transformation Using Power Query Editor
-## Task Description: 
+# 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 𝟐: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐄𝐝𝐢𝐭𝐨𝐫
+## 𝐓𝐚𝐬𝐤 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧: 
 To extract useful information from the file UncleanedDSJObs.csv taken from a Job Posting site available in Kaggle.  
-## To find out:
+## 𝐓𝐨 𝐟𝐢𝐧𝐝 𝐨𝐮𝐭:
 - Which Job Roles pay the highest and least
 - What size companies pay the best
 - Where Job Roles or Job Titles pay the best and least in a specific state
-## Dataset Before Cleaning and Transformation:
+## 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐁𝐞𝐟𝐨𝐫𝐞 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 [Uncleaned DS Jobs](https://github.com/rxnz03/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/Uncleaned_DS_jobs.csv)
 
-## Steps Performed in Data Cleaning and Transformation:
+## 𝐒𝐭𝐞𝐩𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 - Duplicated the raw data to preserve the original.  
 - Cleaned the salary estimate column by removing everything after the "(" symbol.  
 - Created Min Sal and Max Sal columns from the salary estimate.  
@@ -28,21 +28,21 @@ To extract useful information from the file UncleanedDSJObs.csv taken from a Job
 - Created a reference as Sal By State ref, selected State Full Name, Min Sal, and Max Sal, multiplied salaries by 1000, and grouped by State Full Name to get average salaries.  
 - Checked query dependencies to confirm correct relationships.  
 
-## Final Output
-### Cleaned Data
+## 𝐅𝐢𝐧𝐚𝐥 𝐎𝐮𝐭𝐩𝐮𝐭
+### 𝐂𝐥𝐞𝐚𝐧𝐞𝐝 𝐃𝐚𝐭𝐚
 
 
-### Sal By Role Type Dup
+### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐓𝐲𝐩𝐞 𝐃𝐮𝐩
 ![02](https://github.com/user-attachments/assets/813828ae-153c-40df-85f2-1dc2a421e3c6)
 
 
-### Sal By Role Size Ref
+### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐒𝐢𝐳𝐞 𝐑𝐞𝐟
 ![03](https://github.com/user-attachments/assets/4f7f9370-c2ac-4db5-88f7-ca13b170e17f)
 
 
-### Sal By State Ref
+### 𝐒𝐚𝐥 𝐁𝐲 𝐒𝐭𝐚𝐭𝐞 𝐑𝐞𝐟
 ![05](https://github.com/user-attachments/assets/918d9573-db3e-44fa-a23a-21cb714f3b09)
 
 
-### Query Dependencies
+### 𝐐𝐮𝐞𝐫𝐲 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
 <img src="images/query dependencies.png" alt="Alt Text" width="400" height="300">
