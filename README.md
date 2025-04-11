@@ -16,6 +16,7 @@ Motivated CCA student with a passion for coding, data management, and software d
 - **Elementary:** Sapalibutad Elementary School
 
 ## 📂 𝐌𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+### MIDTERM TASKS
 - **Midterm Lab Task 1:** [Data Cleaning and Preparation using EXCEL](https://github.com/rxnz03/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%201/README.md)
 - **Midterm Lab Task 2:** [Data Cleaning and Preparation using POWER QUERY](https://github.com/rxnz03/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%202/README.md)
 - **Midterm Lab Task 3:** [Using Pivot Table and Create Dashboard](https://github.com/rxnz03/EDM-Portfolio/blob/main/Midterm%20Lab%20Task%203/README.md)
