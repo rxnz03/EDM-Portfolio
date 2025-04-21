@@ -5,7 +5,7 @@
 ![part1create](https://github.com/user-attachments/assets/c8a66a62-e87e-4872-b3c0-b1685a261efb)
 
 ### 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐞 𝐭𝐡𝐞 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞_𝐧𝐚𝐦𝐞 𝐚𝐧𝐝 𝐬𝐚𝐥𝐚𝐫𝐲 𝐨𝐟 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬 𝐚𝐧𝐝 𝐚𝐫𝐫𝐚𝐧𝐠𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐡𝐢𝐠𝐡𝐞𝐬𝐭 𝐬𝐚𝐥𝐚𝐫𝐲 𝐭𝐨 𝐭𝐡𝐞 𝐥𝐨𝐰𝐞𝐬𝐭
-![part 1](https://github.com/user-attachments/assets/d91fa21f-20f5-477f-8381-b0f0914d8098)
+![part 1 (2)](https://github.com/user-attachments/assets/b93f0e20-6769-4c27-a35e-21f687f01fb0)
 
 ### 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐞 𝐭𝐡𝐞 𝐝𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭 𝐧𝐚𝐦𝐞𝐬 𝐚𝐥𝐨𝐧𝐠 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐚𝐯𝐞𝐫𝐚𝐠𝐞 𝐬𝐚𝐥𝐚𝐫𝐲 𝐟𝐨𝐫 𝐞𝐚𝐜𝐡 𝐝𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭
 ![part2group](https://github.com/user-attachments/assets/dc96e0c1-5afb-419d-8dee-c12f080ea4d1)
