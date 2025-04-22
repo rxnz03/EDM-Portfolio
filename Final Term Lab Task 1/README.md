@@ -12,5 +12,5 @@
 ## 𝐓𝐀𝐒𝐊 𝟒 : 𝐂𝐫𝐞𝐚𝐭𝐞 𝐚𝐧 𝐞𝐯𝐞𝐧𝐭 𝐬𝐩𝐨𝐧𝐬𝐨𝐫𝐬 𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐟𝐢𝐞𝐥𝐝𝐬
 ![Task 4](https://github.com/user-attachments/assets/24a50e2d-e6ed-4921-8b42-f7b641f5603e)
 
-## 𝐄𝐑𝐑 𝐃𝐢𝐚𝐠𝐫𝐚𝐦
+## 𝐄𝐑 𝐃𝐢𝐚𝐠𝐫𝐚𝐦
 ![ERD model](https://github.com/user-attachments/assets/fdef8ac8-0977-479e-ad33-700f1afbf7b5)
