@@ -6,6 +6,6 @@
 ## 𝐈𝐧𝐬𝐞𝐫𝐭 𝐭𝐡𝐞 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐬 𝐚𝐧𝐝 𝐌𝐨𝐝𝐢𝐟𝐲 𝐭𝐡𝐞 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐧𝐚𝐦𝐞
 ![alter](https://github.com/user-attachments/assets/59460e13-d866-43ca-b365-3030742e5fd9)
 
-## 𝐄𝐑𝐑 𝐃𝐢𝐚𝐠𝐫𝐚𝐦
+## 𝐄𝐑 𝐃𝐢𝐚𝐠𝐫𝐚𝐦
 ![errdiagram](https://github.com/user-attachments/assets/21887b33-27c3-4768-903f-f1b5bba81968)
 
