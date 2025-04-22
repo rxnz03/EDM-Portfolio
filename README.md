@@ -25,3 +25,4 @@ Motivated CCA student with a passion for coding, data management, and software d
 - **Final Term Lab Task 1:** [MySQL Basics](https://github.com/rxnz03/EDM-Portfolio/blob/main/Final%20Term%20Lab%20Task%201/README.md)
 - **Final Term Lab Task 2:** [Transforming ER Model to Relational Tables](https://github.com/rxnz03/EDM-Portfolio/blob/main/Final%20Term%20Lab%20Task%202/README.md)
 - **Final Term Lab Task 3:** [Table Manipulation](https://github.com/rxnz03/EDM-Portfolio/blob/main/Final%20Term%20Lab%20Task%203/README.md)
+- **Final Term Lab Task 4:** [Using SELECT Statement](https://github.com/rxnz03/EDM-Portfolio/blob/main/Final%20Term%20Lab%20Task%204/README.md)
