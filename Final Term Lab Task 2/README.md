@@ -9,5 +9,5 @@
 ## 𝐂𝐫𝐞𝐚𝐭𝐞 𝐭𝐡𝐞 𝐬𝐮𝐛𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐟𝐢𝐞𝐥𝐝𝐬
 ![submission](https://github.com/user-attachments/assets/9c1a2186-a4c1-4202-8c20-9c1aa5c2941e)
 
-## 𝐄𝐑𝐑 𝐃𝐢𝐚𝐠𝐫𝐚𝐦
+## 𝐄𝐑 𝐃𝐢𝐚𝐠𝐫𝐚𝐦
 ![ERRDiagram](https://github.com/user-attachments/assets/4e147c7f-073c-4a03-b6cd-45a8f61a2017)
